@@ -17,7 +17,7 @@ const StackNavigator = createStackNavigator(
     Detail: DetailScreen
   },
   {
-    initialRouteName: 'Detail',
+    initialRouteName: 'Index',
   }
 );
 
